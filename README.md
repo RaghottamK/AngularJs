@@ -26,3 +26,13 @@ Git main commands.
     Same way configure your email and password for global and single usage as per your requirement
 
 
+To add remote URL
+git remote add RaghottamK https://github.com/RaghottamK/AngularJs.git
+// this adds the remote url into RaghottamK
+
+pushing the changes -
+git push RaghottamK master
+
+
+
+
