@@ -1,0 +1,23 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "Getting with Angular Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghottamK/AngularJs.git"
+  },
+  "keywords": [
+    "angularjs",
+    "learning"
+  ],
+  "author": "Raghu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaghottamK/AngularJs/issues"
+  },
+  "homepage": "https://github.com/RaghottamK/AngularJs#readme"
+}
