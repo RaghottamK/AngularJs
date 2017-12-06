@@ -35,3 +35,4 @@ git push RaghottamK master
 
 // Installing npm
 npm init (creates package.json);
+ origin
